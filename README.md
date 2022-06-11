@@ -47,3 +47,12 @@ Dosen Access :
 
 Tendik Access : 
 1. Mengedit biodatanya sendiri
+
+
+<h2>Update!!!!</h2>
+Terdapat menu baru berupa Mata kuliah. Menu ini hanya dapat diakses oleh admin dan admin berhak menambahkan mata kuliah. Menu mata kuliah ini dapat diedit juga apabila telah terbuat, begitu juga element-elementnya dapat di inspect. 
+Untuk menambahkan matkul ketika telah terdapat matkul, tekan 1 angka setelah matkul paling akhir dan untuk keluar tekan 2 angka setelah matkul paling akhir
+-> Misal terdapat 9 matkul maka pencet 10 untuk menambah matkul dan pencet 11 untuk keluar
+
+<h3>Unfinished</h3>
+Terdapat menu di login mahasiswa yang belum selesai karena keterbatasan waktu. Menu ini tidak dapat di pencet sehingga tolong jangan dipencet, terimakasih. Rencana dari menu ini adalah mahasiswa dapat mengassign dirinya ke dalam suatu matkul yang telah terbuat. Ketika mengassign maka attribute mahasiswa berupa semester dan skssemester ini akan diperiksa pada fungsi if dengan attribute matkul berupa minimalsemester dan skssmesterini akan diperiksa apakah sudah lebih dari 24, selain itu juga attribute kuotamahasiswa matkul akan diperiksa dengan attribute jumlahsiswaterdaftar.
