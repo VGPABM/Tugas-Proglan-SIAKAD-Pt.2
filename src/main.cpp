@@ -808,7 +808,9 @@ cin.ignore();
 
 		//mengelola matkul
 		case 7:{
+			//Menu matkul
 			if (recMatkul.empty()){
+				//apabila matkul kosong maka akan muncul menu ini
 				pilihantujuh:
 				system("@cls || clear");
 				int menupilihanmatkul;
@@ -820,6 +822,7 @@ cin.ignore();
 			{cin.clear();cin.ignore();cin.ignore();}
 
 				if (menupilihanmatkul == 1){
+					//menu menambah matkul
 					system("@cls || clear");
 					cout<< "Menu menambah mata kuliah"<<endl;
 					cout<< "========================"<<endl;
